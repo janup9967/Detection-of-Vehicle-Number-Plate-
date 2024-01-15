@@ -2,7 +2,7 @@
 
 Description : We have created a vehicle number plate detection using machine learning . We can get the number plate details easily through this algorithm .Many more are yet to do in this project .
 
-Steps : 
+Steps :   
 
 1.  Install and Import Dependencies
 
